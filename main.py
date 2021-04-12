@@ -42,7 +42,7 @@ pyautogui.FAILSAFE = False
 #var
 writeButtonLocation = None
 MAIL = 'zampierinicolo0@gmail.com'
-ora = DateTime(14, 46)
+ora = DateTime(18, 4)
 
 OpenClient.main()
 
